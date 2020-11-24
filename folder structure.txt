@@ -13,7 +13,7 @@ Folder Structure:-
     ├── bootstrap.js
     └── bootstrap.min.js
 --img/
-	  └── (contains all images required for developing the website)
+    └── (contains all images required for developing the website)
 --includes/	 
     ├── check-if-added.php
     ├── common.php
